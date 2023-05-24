@@ -6,7 +6,7 @@ POC: This multi-tenant solution should be able to sync a local database with its
 
 - Create Cloud Database configuration for new users automatically
 - Authenticate incoming requests and pick the correct database connection
-- Replicate changes between the Clouda DB and the Local DB bidirectionally
+- Replicate changes between the Cloud DB and the Local DB bidirectionally
 
 ### Diagram
 
